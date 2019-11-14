@@ -1,5 +1,3 @@
-package week5;
-
 import java.util.ArrayList;
 
 import javafx.animation.AnimationTimer;
